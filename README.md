@@ -4,7 +4,7 @@ This is a simple tool built with Python and Tkinter to help users magnify a spec
 
 ## Installation
 
-Before running the Screen Magnifier App, you need to install the required Python libraries. You can install these dependencies using the following command:
+Before running the Magnifier app, you need to install the required Python libraries. You can install these dependencies using the following command:
 
 ```bash
 pip install pillow mss
@@ -12,7 +12,7 @@ pip install pillow mss
 
 ## Usage
 
-To use the Screen Magnifier App, simply run the script from your command line. Make sure you are in the directory where the `magnifier.py` script is located, or provide the full path to the script:
+To use the Magnifier app, simply run the script from your command line. Make sure you are in the directory where the `magnifier.py` script is located, or provide the full path to the script:
 
 ```bash
 python magnifier.py
@@ -37,7 +37,7 @@ window_size=300   # Adjust the size of the magnifier window
 
 ### Contributions
 
-Contributions to the Screen Magnifier App are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to the Magnifier app are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ### License
 
